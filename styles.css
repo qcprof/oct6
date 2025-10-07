@@ -1,11 +1,15 @@
 body {
   background-color: aqua;
+
 }
 
 
-.abcd {
-  background-color: beige;
-  margin: 60px;
-  border: darkred 5px solid;
-  padding: 30px
+h2 {
+  display: block;
+}
+
+button {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
 }
